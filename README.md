@@ -15,5 +15,7 @@
 
 # programmerSSpot
 
-### This project is a Web Application built with ASP.NET Web Forms. Its' purpose is for programmers to be able to present themselves, share opinions on different software companies and find good opportunities. ProgrammerSSpot can also be helpful to software companies when the are looking for developers.
+### This project is a Web Application built with ASP.NET Web Forms using the MVP pattern (with the help of the [WebFormsMvp](https://github.com/webformsmvp/webformsmvp) library) and DI (Ninject). 
+
+### The project's purpose is for programmers to be able to present themselves, share opinions on different software companies and find good opportunities. ProgrammerSSpot can also be helpful to software companies when they are looking for developers.
 
